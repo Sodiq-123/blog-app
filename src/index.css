@@ -10,8 +10,14 @@
   padding: 20px;
   display: flex;
   align-items: center;
-  max-width: 0 auto;
-  border-bottom: 1px solid white;
+  max-width: 600px;
+  margin: 0 auto;
+  border-bottom: 1px solid #f2f2f2;
+  border-top: 2px double #f1356d;
+  border-bottom-right-radius: 5%;
+  border-bottom-left-radius: 5%;
+  border-top-left-radius: 3%;
+  border-top-right-radius: 3%;
 }
 
 .navbar h1 {
@@ -19,10 +25,6 @@
 }
 
 .navbar .links {
-  margin-left: auto;
-}
-
-.navbar a {
   margin-left: auto;
 }
 
