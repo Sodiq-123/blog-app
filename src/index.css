@@ -12,14 +12,9 @@
   align-items: center;
   max-width: 600px;
   margin: 0 auto;
-  border-bottom: 2px solid #f1356d;
+  border-bottom: 1px solid #f1356d;
   border-top: 2px double #f1356d;
-  border: 2px solid #f1356d;
   border-radius: 20px;
-  border-bottom-right-radius: 5%;
-  border-bottom-left-radius: 5%;
-  border-top-left-radius: 3%;
-  border-top-right-radius: 3%;
 }
 
 .navbar h1 {
